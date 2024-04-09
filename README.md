@@ -18,6 +18,13 @@ Install the necessary packages using pip:
 pip install openpyxl
 ```
 
+## Burp Suite XML Generation
+1. Targets TAB - highlight all issues you want to report.
+2. Right-Click and 'Report Selected Issues'
+3. Export issue data (XML). :warning: **Untick 'Base64-encode' option!**
+4. Select to include full requests and full responses
+5. Save the file name with `.xml` extension.
+
 ## Usage  
 1. Clone the Repository
 ```bash
