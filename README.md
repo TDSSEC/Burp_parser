@@ -1,4 +1,4 @@
-# Burp XML Parser
+# Burp Suite XML Parser
 
 This Python script parses Burp Suite XML files containing security issues and exports the data to either CSV or XLSX format. It extracts specific fields from the XML file, such as issue details, and organizes them into a tabular format suitable for further analysis.
 
