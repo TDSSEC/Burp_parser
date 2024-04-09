@@ -2,6 +2,8 @@
 
 This Python script parses Burp Suite XML files containing security issues and exports the data to either CSV or XLSX format. It extracts specific fields from the XML file, such as issue details, and organizes them into a tabular format suitable for further analysis.
 
+![Spreadsheet](https://github.com/TDSSEC/burp-xml-parser/blob/main/worksheet-example.png)
+
 ## Why?
 I struggled to find a working burpsuite parser that worked with the latest burpsuite pro 2024 edition, so here it is.
 
